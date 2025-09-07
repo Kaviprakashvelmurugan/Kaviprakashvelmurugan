@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi — I'm Kaviprakash 👋
 
-<!--
-**Kaviprakashvelmurugan/Kaviprakashvelmurugan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Fullstack Developer • React | Node.js | Python  
+ Based in India • Open to opportunities  
 
-Here are some ideas to get you started:
+##  Featured Projects
+- **Twindlo** — Productivity platform  
+  🔗 Repo: https://github.com/<your-username>/twindlo  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **All.do (ToDo App)** — Task manager with localStorage  
+  🔗 Repo: https://github.com/<your-username>/todo-app  
+
+- **Image Downloader (Pexels API)** — High-quality image search & download with filters  
+  🔗 Repo: https://github.com/<your-username>/image-downloader  
+
+## 📫 Connect with me
+- Email: kaviprakashvelmurugan@gmail.com 
+- LinkedIn: www.linkedin.com/in/kaviprakash-velmurugan
+
+
