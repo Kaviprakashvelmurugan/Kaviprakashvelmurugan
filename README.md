@@ -1,6 +1,6 @@
 # Hi — I'm Kaviprakash 👋
 
- Fullstack Developer • React | Node.js | Python  
+ Fullstack Developer • React | Node.js | MySQL | Sqlite | Python  
  Based in India • Open to opportunities  
 
 ##  Featured Projects
