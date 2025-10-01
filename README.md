@@ -1,125 +1,110 @@
 # Hi — I'm Kaviprakash 👋
 
- Fullstack Developer • React | Node.js | MySQL | Sqlite | Python  
- 💻 Web Developer | React Enthusiast | Problem Solver
- Based in India • Open to opportunities  
+**Fullstack Developer • React | Node.js | MySQL | SQLite | Python**  
+💻 Web Developer | React Enthusiast | Problem Solver  
+Based in India • Open to opportunities  
 
-Passionate about building interactive, user-friendly applications and exploring how tech can make learning and productivity fun.
+Passionate about building interactive, user-friendly applications and exploring how technology can make **learning, productivity, and coding challenges fun**.
 
-🚀 Featured Projects
+---
 
+## 🚀 Featured Projects
 
-🔥 Twindlo
+### 🔥 Twindlo
+[Repository Link](https://github.com/Kaviprakashvelmurugan/twindlo)  
 
- Repository Link : https://github.com/Kaviprakashvelmurugan/twindlo
- 
- – Coding Challenge Platform (Ongoing)
+**Coding Challenge Platform (Ongoing)**  
 
-A gamified coding platform where users declare topics they’re “up for” and challenge each other.
+A gamified platform for coding enthusiasts where users declare topics they’re “up for” and challenge each other. Features include:  
+- AI-generated coding problems using OpenAI API.  
+- Live code editor with backend execution (in progress).  
+- Authentication via OTP using Resend.  
+- Track points, streaks, and leaderboards to measure progress.  
+- Social features: invite friends, challenge buddies, and track task completion.  
 
-AI (OpenAI API) generates real coding problems.
+**Tech:** React, Node.js, Express, SQL, Resend, OpenAI API  
 
-Live code editor with backend execution (in progress).
+---
 
-Authentication with OTP (Resend) for login/signup.
+### 📸 PVOX
+[Repository Link](https://github.com/Kaviprakashvelmurugan/pvox)  
 
-Points, streaks, and leaderboards to track progress.
+**Photo & Video Explorer**  
 
-Tech: React, Node.js, Express, SQL, Resend, OpenAI API
+A React web app powered by the **Pexels API** to browse, filter, and download high-quality media.  
+- Search and filter options for easy discovery of media content.  
+- Like/Dislike system with **localStorage persistence**.  
+- Custom loaders and error handling (404 page).  
+- Responsive UI optimized for mobile and desktop.  
 
+**Tech:** React, JavaScript, CSS, Pexels API  
 
+---
 
-📸 PVOX
+### 🎮 Emojo
+[Repository Link](https://github.com/Kaviprakashvelmurugan/emojo)  
 
- Repository Link : https://github.com/Kaviprakashvelmurugan/pvox
- 
- – Photo & Video Explorer
+**Emoji Memory Challenge Game**  
 
-A React web app powered by Pexels API to browse and download high-quality media.
+A fun, interactive React game testing memory skills:  
+- Tap **unique emojis** without repeating; cards shuffle after every click.  
+- Track **score and high score** dynamically.  
+- Smooth CSS animations and responsive design for all devices.  
 
-Search & filters with responsive UI.
+**Tech:** React, JavaScript, CSS  
 
-Like/Dislike system with localStorage persistence.
+---
 
-Custom loaders & error handling (404 page).
+### ✅ AllDo
+**To-Do List App**  
 
-Tech: React, JavaScript, CSS, Pexels API
+A clean and simple productivity app to manage daily tasks:  
+- Add, edit, and delete tasks in real-time.  
+- Responsive design with user-friendly interface.  
+- Ideal for keeping track of coding or study tasks.  
 
+**Tech:** React, JavaScript, CSS  
 
-🎮 Emojo
+---
 
-Repository Link : https://github.com/Kaviprakashvelmurugan/emojo
+### 🐦 Twitter Backend
+**SQL + REST API Clone**  
 
- – Emoji Memory Challenge Game
+A backend project replicating **Twitter-like functionality**:  
+- REST APIs for tweets, likes, and follower management.  
+- SQL queries to fetch user timelines, likes, and followers.  
+- Backend-focused project emphasizing database integration and API handling.  
 
-A fun React-based memory challenge game.
+**Tech:** Node.js, Express, SQL  
 
-Tap unique emojis without repeating — shuffled after every click.
+---
 
-Score & high score tracking.
+### 🛒 E-Commerce Website
+**Frontend Project**  
 
-Responsive design + smooth CSS animations.
+A fully functional shopping site built for practice in frontend development:  
+- Product listings, shopping cart, and secure checkout flow.  
+- Responsive layout optimized for all screen sizes.  
+- Focused on UI/UX and interactive frontend components.  
 
-Tech: React, JavaScript, CSS
+**Tech:** HTML, CSS, JavaScript  
 
+---
 
-✅ AllDo
+## 🛠 Skills
 
- – To-Do List App
+**Frontend:** React, JavaScript (ES6+), HTML5, CSS3  
+**Backend:** Node.js, Express  
+**Database:** SQL, Firebase (basic)  
+**Other Tools:** Resend, API Integration, Git/GitHub  
 
-A simple productivity app built in React.
+---
 
-Add, edit, delete tasks in real-time.
+## 📫 Connect With Me
 
-Clean, responsive interface.
+📧 **Email:** kaviprakashvelmurugan@gmail.com  
+📱 **Phone:** 6374802067  
+🌐 **GitHub:** [github.com/Kaviprakashvelmurugan](https://github.com/Kaviprakashvelmurugan)  
 
-Tech: React, JavaScript, CSS
+---
 
-
-
-🐦 Twitter Backend
-
- – SQL + REST API Clone
-
-A backend project replicating Twitter-like functionality.
-
-Built REST APIs for tweets, likes, followers.
-
-SQL queries for fetching user timelines, liked users, and follower data.
-
-Tech: Node.js, Express, SQL
-
-
-
-
-🛒 E-Commerce Website
- – Frontend Project
-
-A fully functional shopping site.
-
-Product listings, shopping cart, and secure checkout flow.
-
-Responsive layout using HTML, CSS, and JavaScript.
-
-Tech: HTML, CSS, JavaScript
-
-
-
-🛠 Skills
-
-Frontend: React, JavaScript (ES6+), HTML5, CSS3
-
-Backend: Node.js, Express
-
-Database: SQL, Firebase (basic)
-
-Other Tools: Resend, API Integration, Git/GitHub
-
-
-📫 Connect With Me
-
-📧 Email: kaviprakashvelmurugan@gmail.com
-phone : 6374802067
-
-
-🖥️ GitHub Projects
