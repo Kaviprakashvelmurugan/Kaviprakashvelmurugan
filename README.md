@@ -8,23 +8,7 @@ Passionate about building interactive, user-friendly applications and exploring 
 
 ---
 
-## 🚀 Featured Projects
 
-### 🔥 Twindlo
-[Repository Link](https://github.com/Kaviprakashvelmurugan/twindlo)  
-
-**Coding Challenge Platform (Ongoing)**  
-
-A gamified platform for coding enthusiasts where users declare topics they’re “up for” and challenge each other. Features include:  
-- AI-generated coding problems using OpenAI API.  
-- Live code editor with backend execution (in progress).  
-- Authentication via OTP using Resend.  
-- Track points, streaks, and leaderboards to measure progress.  
-- Social features: invite friends, challenge buddies, and track task completion.  
-
-**Tech:** React, Node.js, Express, SQL, Resend, OpenAI API  
-
----
 
 ### 📸 PVOX
 [Repository Link](https://github.com/Kaviprakashvelmurugan/pvox)  
